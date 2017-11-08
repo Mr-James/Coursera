@@ -1,0 +1,15 @@
+{
+  "name": "js-fullstack",
+  "version": "1.0.0",
+  "description": "Course JS Specialization",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Tran",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
